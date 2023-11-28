@@ -1,0 +1,6 @@
+erc721ContractAddress = '0x6Cdc5563004370F082D57E0fCdf440B0eCce3fC0'
+erc721AContractAddress = '0xb222A4eff136f08F8Ab07d24E7f69aa76d89DbDC'
+zorbErc721ContractAddress = '0xa0e8c81caea6e63d96e1720Ec12BABdC4e604a3D'
+erc1155ContractAddress = '0x930672d99f45E24000a710e78921D7e487e98C60'
+
+All addresses are for the Goerli network and can be looked at on Etherscan. (https://goerli.etherscan.io/) 
